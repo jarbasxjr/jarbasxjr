@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jarbasxjr/jarbasxjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align=center> Hi There 👋</h2>
+
+<p align=center> Um mero aprendiz que sempre foi "doido pra criar joguin", apaixonado por computador, agora estudando C#,.NET</P>
+
+<div align= center>
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jarbasxjr)
+[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jotaxd.itch.io) 
+
+
+</div>
